@@ -12,10 +12,10 @@ Hello! I'm a passionate developer specializing in **Flutter**, **React**, **Pyth
 
 | **Language/Framework** | **Proficiency** | **Projects** |
 |------------------------|-----------------|--------------|
-| ![Flutter](https://example.com/flutter-logo.png) | ⭐⭐⭐⭐⭐ | [Flutter Projects](https://github.com/yourusername/flutter-projects) |
-| ![React](https://example.com/react-logo.png) | ⭐⭐⭐⭐⭐ | [React Projects](https://github.com/yourusername/react-projects) |
-| ![Python Flask](https://example.com/flask-logo.png) | ⭐⭐⭐⭐ | [Flask Projects](https://github.com/yourusername/flask-projects) |
-| ![Java](https://example.com/java-logo.png) | ⭐⭐⭐⭐ | [Java Projects](https://github.com/yourusername/java-projects) |
+| ![Flutter](https://example.com/flutter-logo.png) | ⭐⭐⭐⭐⭐ | 
+| ![React](https://example.com/react-logo.png) | ⭐⭐⭐⭐⭐ |  
+| ![Python Flask](https://example.com/flask-logo.png) | ⭐⭐⭐⭐ |  
+| ![Java](https://example.com/java-logo.png) | ⭐⭐⭐⭐ |  
 
 ---
 
@@ -25,5 +25,3 @@ Hello! I'm a passionate developer specializing in **Flutter**, **React**, **Pyth
 - **Backend**: Python Flask, Java
 - **Database**: PostgreSQL, MongoDB
 - **Tools**: Git, Visual Studio Code, Postman
-
----
