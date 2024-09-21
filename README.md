@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-![Tech Vibes](https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg)
+![Tech Vibes](https://t4.ftcdn.net/jpg/02/98/90/73/240_F_298907359_ciqlDb1SVxmr3PIv5wKcYqZ1rvsX7E8a.jpg)
 
 ## 🌟 About Me
 
