@@ -12,10 +12,10 @@ Hello! I'm a passionate developer specializing in **Flutter**, **React**, **Pyth
 
 | **Language/Framework** | **Proficiency** | **Projects** |
 |------------------------|-----------------|--------------|
-| ![Flutter](https://example.com/flutter-logo.png) | ⭐⭐⭐⭐⭐ | 
-| ![React](https://example.com/react-logo.png) | ⭐⭐⭐⭐⭐ |  
-| ![Python Flask](https://example.com/flask-logo.png) | ⭐⭐⭐⭐ |  
-| ![Java](https://example.com/java-logo.png) | ⭐⭐⭐⭐ |  
+| Flutter  | ⭐⭐⭐ | 
+| React | ⭐⭐⭐⭐ |  
+| Python Flask | ⭐⭐⭐⭐ |  
+ 
 
 ---
 
