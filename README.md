@@ -13,10 +13,9 @@ I'm a firm believer in clean code, efficient development practices, and the powe
 ## 🛠️ Tech Stack
 
 * **Frontend:** Flutter, React
-* **Backend:** Python Flask, Java
+* **Backend:** Python Flask, Java [learning java for backend]
 * **Databases:** PostgreSQL, MongoDB
-* **Cloud:** AWS, GCP (Optional)
-* **Tools:** Git, Visual Studio Code, Postman, Docker (Optional)
+* **Tools:** Git, Visual Studio Code, Postman
 
 ---
 
@@ -26,8 +25,8 @@ I'm a firm believer in clean code, efficient development practices, and the powe
     * **Proficient:** Python, JavaScript, Java
     * **Familiar:** Dart, TypeScript
 * **Frameworks/Libraries:** 
-    * **Proficient:** Flutter, React, React Native, Flask, Spring Boot
-    * **Familiar:** Node.js, Express.js, TensorFlow/PyTorch (Optional)
+    * **Proficient:** Flutter, React, React Native, Flask.
+    
 
 ---
 
@@ -37,19 +36,6 @@ I'm a firm believer in clean code, efficient development practices, and the powe
 * **Twitter:** [Your Twitter Handle] (Optional)
 * **Website:** [Your Personal Website URL] (Optional) 
 
----
 
-**Note:**
 
-* **Replaced generic image:** The provided image link was replaced with a placeholder. You should use a professional headshot or a relevant image.
-* **Added alt text:** Alt text is essential for accessibility and SEO.
-* **Improved "About Me" section:** The description is now more concise and impactful, highlighting your personality and career goals.
-* **Enhanced "Tech Stack" section:** 
-    * Included cloud platforms (if applicable).
-    * Added Docker (if applicable). 
-* **Organized "Skills" section:** 
-    * Separated languages and frameworks/libraries for better readability.
-    * Added proficiency levels (optional).
-* **Added "Connect with Me" section:** Include links to your professional profiles.
 
-This refined README.md provides a more professional and engaging overview of your skills and experience. Remember to customize it further to reflect your unique background and career aspirations.
