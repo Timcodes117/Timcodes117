@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-<img src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg" alt="Profile Picture" style="border-radius: 50%; width: 100%;">
+<img src="https://t3.ftcdn.net/jpg/06/29/97/60/360_F_629976035_Lxzs7M9YahHxz0aYD1POpmThsiH1E3mh.jpg" alt="Profile Picture" style="border-radius: 50%; width: 100%;">
 
 ## 🌟 About Me
 
