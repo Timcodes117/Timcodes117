@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-<img src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg" alt="Profile Picture" style="border-radius: 50%; max-width: 200px;">
+<img src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg" alt="Profile Picture" style="border-radius: 50%; width: 100%;">
 
 ## 🌟 About Me
 
@@ -27,8 +27,6 @@ I'm a firm believer in clean code, efficient development practices, and the powe
 * **Frameworks/Libraries:** 
     * **Proficient:** Flutter, React, React Native, Flask.
     
-
----
 
 ## 🔗 Connect with Me
 
