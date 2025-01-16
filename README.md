@@ -24,17 +24,20 @@ I'm a firm believer in clean code, efficient development practices, and the powe
 ## 📈 Skills
 
 * **Languages:** 
-    * **Proficient:** Python, JavaScript, Java
-    * **Familiar:** Dart, TypeScript
+    Dart, javascript, python, java
+  
 * **Frameworks/Libraries:** 
-    * **Proficient:** Flutter, React, React Native, Flask.
-    
+    * **Proficient:** Flutter, React, Next.js, Flask.
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Timcodes117&" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Timcodes117&show_icons=true&locale=en" />
+</p>
 
 ## 🔗 Connect with Me
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Twitter:** [Your Twitter Handle] (Optional)
-* **Website:** [Your Personal Website URL] (Optional) 
+* **LinkedIn:** <a href="https://www.linkedin.com/in/timothy-adebogun-871259262/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BjiP42UECTXCxK8a9rcenXg%3D%3D">timothy-adebogun</a>
+* **Twitter:**  <a href="https://x.com/tim_codes117">@tim_codes117</a>
+* **Website:** <a href="https://timportfolio117.vercel.app/">My website </a>
 
 
 
