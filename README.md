@@ -2,7 +2,7 @@
 
 <img src="https://marketplace.canva.com/EADapFz651I/1/0/1600w/canva-blue-and-pink-intergalactic-galaxy-general-soundcloud-banner-o3cmvy_L1Pw.jpg" alt="Profile Picture" style="border-radius: 50%; width: 100%;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34F700&center=true&width=435&lines=I'm+a+software+developer;I+build+websites+and+mobile+apps;I+love+to+write+codes;I+want+to+work+for+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34F700&width=435&lines=I'm+a+software+developer;I+build+websites+and+mobile+apps;I+love+to+write+codes;I+want+to+work+for+you!)](https://git.io/typing-svg)
 
 ## 🌟 About Me
 
