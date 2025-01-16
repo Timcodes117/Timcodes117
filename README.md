@@ -29,7 +29,7 @@ I'm a firm believer in clean code, efficient development practices, and the powe
 * **Frameworks/Libraries:** 
     * **Proficient:** Flutter, React, Next.js, Flask.
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Timcodes117&" />
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Timcodes117" />
    <img src="https://github-readme-stats.vercel.app/api?username=Timcodes117&show_icons=true&locale=en" />
 </p>
 
