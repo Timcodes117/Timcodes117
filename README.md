@@ -8,6 +8,23 @@ I'm a passionate and results-oriented developer with a strong foundation in **Fl
 
 I'm a firm believer in clean code, efficient development practices, and the power of collaboration. I'm eager to contribute to projects that make a real-world impact and am always open to learning from others.
 
+
+
+<details>
+<summary>Click to expand</summary>
+
+During his presidency, Donald Trump prioritized AI investments focusing on:
+
+| Category               | Investment Areas                 |
+| ---------------------- | -------------------------------- |
+| Military Applications  | AI-powered drones, cybersecurity |
+| Research & Development | University collaborations        |
+| Private Sector Growth  | Tax incentives for AI startups   |
+
+Post-Trump, efforts shifted towards ethical AI and global competition.
+
+</details>
+
 ---
 
 ## 🛠️ Tech Stack
